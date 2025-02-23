@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @osbertosa
-- 👀 I’m interested in machine learning and deeping learning algorithm .
-- 🌱 I’m currently learning .deeping learning ..
+- 👀  interest in machine learning and deeping learning algorithm .
+- 🌱 
 - 💞️ I’m looking to collaborate on .machines and deeping learnig ..
 - 📫 How to reach me ..osbertosa.
-- 😄 Pronouns: .he..
+- 😄 
 - ⚡ Fun fact: football make the world smile ..
 
 <!---
